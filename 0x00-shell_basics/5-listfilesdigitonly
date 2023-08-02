@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lAn -1
+ls -lAn -a -1
